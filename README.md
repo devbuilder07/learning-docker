@@ -19,3 +19,7 @@
 # Running Container Command
 
 - dosker ps
+
+# Stop Command
+
+- docker stop [IMAGE NAME]
